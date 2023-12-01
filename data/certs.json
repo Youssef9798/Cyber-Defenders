@@ -1,0 +1,154 @@
+{
+  "certs": [
+    {
+      "name": "CISSP",
+      "popularity": 9.5,
+      "difficulty": 8.7
+    },
+    {
+      "name": "CompTIA Security+",
+      "popularity": 8.2,
+      "difficulty": 4.5
+    },
+    {
+      "name": "CEH (Certified Ethical Hacker)",
+      "popularity": 7.8,
+      "difficulty": 7.2
+    },
+    {
+      "name": "CISM (Certified Information Security Manager)",
+      "popularity": 6.5,
+      "difficulty": 8.0
+    },
+    {
+      "name": "CCNA CyberOps",
+      "popularity": 6.0,
+      "difficulty": 6.8
+    },
+    {
+      "name": "CRISC (Certified in Risk and Information Systems Control)",
+      "popularity": 7.3,
+      "difficulty": 8.5
+    },
+    {
+      "name": "CISA (Certified Information Systems Auditor)",
+      "popularity": 7.9,
+      "difficulty": 7.0
+    },
+    {
+      "name": "CySA+ (CompTIA Cybersecurity Analyst)",
+      "popularity": 6.7,
+      "difficulty": 5.5
+    },
+    {
+      "name": "AWS Certified Security - Specialty",
+      "popularity": 8.5,
+      "difficulty": 8.2
+    },
+    {
+      "name": "GIAC Security Essentials (GSEC)",
+      "popularity": 6.3,
+      "difficulty": 6.9
+    },
+    {
+      "name": "ISO/IEC 27001 Lead Auditor",
+      "popularity": 5.8,
+      "difficulty": 7.8
+    },
+    {
+      "name": "OSCP (Offensive Security Certified Professional)",
+      "popularity": 9.0,
+      "difficulty": 9.3
+    },
+    {
+      "name": "Certified Cloud Security Professional (CCSP)",
+      "popularity": 7.5,
+      "difficulty": 8.1
+    },
+    {
+      "name": "Cisco Certified CyberOps Professional",
+      "popularity": 6.8,
+      "difficulty": 7.2
+    },
+    {
+      "name": "ISACA CSX Cybersecurity Practitioner",
+      "popularity": 5.5,
+      "difficulty": 6.7
+    },
+    {
+      "name": "SANS GIAC Web Application Penetration Tester (GWAPT)",
+      "popularity": 6.9,
+      "difficulty": 8.8
+    },
+    {
+      "name": "Microsoft Certified: Azure Security Engineer Associate",
+      "popularity": 8.3,
+      "difficulty": 7.4
+    },
+    {
+      "name": "Certified Information Security Manager (CISM)",
+      "popularity": 8.0,
+      "difficulty": 8.4
+    },
+    {
+      "name": "Certified Information Systems Security Professional (CISSP)",
+      "popularity": 9.7,
+      "difficulty": 9.6
+    },
+    {
+      "name": "EC-Council Certified Security Analyst (ECSA)",
+      "popularity": 7.1,
+      "difficulty": 7.9
+    },
+    {
+      "name": "Certified in the Governance of Enterprise IT (CGEIT)",
+      "popularity": 6.4,
+      "difficulty": 8.2
+    },
+    {
+      "name": "Certified Information Systems Security Professional (CISSP)",
+      "popularity": 9.7,
+      "difficulty": 9.6
+    },
+    {
+      "name": "CompTIA PenTest+",
+      "popularity": 7.2,
+      "difficulty": 7.0
+    },
+    {
+      "name": "Certified Wireless Security Professional (CWSP)",
+      "popularity": 6.6,
+      "difficulty": 8.3
+    },
+    {
+      "name": "Certified Cloud Security Professional (CCSP)",
+      "popularity": 7.5,
+      "difficulty": 8.1
+    },
+    {
+      "name": "Certified Ethical Hacker (CEH)",
+      "popularity": 8.8,
+      "difficulty": 8.6
+    },
+    {
+      "name": "AWS Certified Security - Specialty",
+      "popularity": 8.5,
+      "difficulty": 8.2
+    },
+    {
+      "name": "Certified Information Security Manager (CISM)",
+      "popularity": 8.0,
+      "difficulty": 8.4
+    },
+    {
+      "name": "CompTIA Advanced Security Practitioner (CASP+)",
+      "popularity": 7.7,
+      "difficulty": 7.6
+    },
+    {
+      "name": "GIAC Certified Incident Handler (GCIH)",
+      "popularity": 6.2,
+      "difficulty": 6.5
+    }
+  ]
+}
